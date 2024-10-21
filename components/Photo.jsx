@@ -35,9 +35,10 @@ const Photo = () => {
             src="/assets/juan.png"
             priority
             quality={100}
-            fill
+            fill  
+            sizes="100%"
             alt=""
-            className="object-contain"
+            className="w-50 h-50 rounded-full"
           />
         </motion.div>
 
