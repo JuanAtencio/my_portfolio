@@ -19,7 +19,7 @@ import { Info } from "lucide-react";
 
 const about = {
   title: "About me",
-  description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+  description: "I am a passionate frontend developer just beginning my journey in web development. I'm exploring frameworks like React and Next.js, and I'm eager to learn more about responsive design and accessibility. I'm excited to continue growing in this field, collaborating on challenging projects, and contributing to a dynamic development environment. My goal is to refine my skills and bring my ideas to life through code.",
   info: [
     {
       fieldName: "Name",
@@ -28,14 +28,6 @@ const about = {
     {
       fieldName: "Phone",
       fieldValue: "(+51 992 260 120)",
-    },
-    {
-      fieldName: "Experience",
-      fieldValue: "12 Years",
-    },
-    {
-      fieldName: "Skype",
-      fieldValue: "Juan.08",
     },
     {
       fieldName: "Freelance",
@@ -57,34 +49,9 @@ const experience = {
     "Lorem ipsum dolor sit amet consectetur adipisicing alit. Lorem ipsum dolor sit amet consectetur adipisicing alit.",
   items: [
     {
-      company: "Tech Solutions Inc.",
-      position: "full Stack Developer",
-      duration: "2022 - Present",
-    },
-    {
-      company: "Web Desing Studio",
-      position: "Front-End Developer Intern",
-      duration: "Summer 2021",
-    },
-    {
       company: "E-commerce Startup",
       position: "Freelance Web Developer",
       duration: "2020 - 2021",
-    },
-    {
-      company: "Tech Academy",
-      position: "Teaching Assistant",
-      duration: "2020 - 2021",
-    },
-    {
-      company: "Digital Agency",
-      position: "UI/UX Designer",
-      duration: "2018 - 2019",
-    },
-    {
-      company: "Software Development Firm",
-      position: "Junior Developer",
-      duration: "2017 - 2018",
     },
   ],
 };
@@ -106,26 +73,6 @@ const education = {
       degree: "Frontend",
       duration: "2024",
     },
-    // {
-    //   institution: "Online Course",
-    //   degree: "Programming Course ",
-    //   duration: "2020 - 2021",
-    // },
-    // {
-    //   institution: "Tech Institute",
-    //   degree: "Certified Web Developer ",
-    //   duration: "2019",
-    // },
-    // {
-    //   institution: "Design School",
-    //   degree: "Diploma in Graphic Design",
-    //   duration: "2016 - 2018",
-    // },
-    // {
-    //   institution: "Community College",
-    //   degree: "Associate Degree in Computer Science",
-    //   duration: "2014 - 2016",
-    // },
   ],
 };
 

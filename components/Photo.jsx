@@ -14,7 +14,7 @@ const Photo = () => {
           transition: {
             delay: 2,
             duration: 0.4,
-            ease: "easeIn",
+            ease: "easeIn"
           },
         }}
       >
@@ -26,7 +26,7 @@ const Photo = () => {
             transition: {
               delay: 2.4,
               duration: 0.4,
-              ease: "easeInOut",
+              ease: "easeInOut"
             },
           }}
           className="w-[298px] h-[298px] xl:w-[498px] xl:h-[498px] mix-blend-lighten absolute"

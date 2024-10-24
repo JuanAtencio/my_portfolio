@@ -23,25 +23,25 @@ import WorkSliderBtns from "@/components/ui/WorkSliderBtns";
 const projects = [
   {
     num: "01",
-    category: "frontend",
+    category: "Frontend", 
     title: "project 1",
     description:
       "I used React and Tailwind CSS to develop a responsive application, managing state with hooks and navigation with React Router.",
-    stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "JavaScript" }],
+    stack: [{ name: "Html5" }, { name: "Tailwind" }, { name: "JavaScript" }, { name: "React" }],
     image: "/assets/work/thumb1.png",
     live: "",
-    github: "",
+    github: "https://github.com/JuanAtencio/ecommerce-app",
   },
   {
     num: "02",
-    category: "fullstack",
+    category: "Frontend",
     title: "project 2",
     description:
-      "Lorem ipsum dolor sit amet adisicing elit. Cupidate magnan modi.",
-    stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Node.js" }],
+      "Desarrollé un portafolio interactivo usando Next.js, implementando use client para gestionar el estado en componentes interactivos, lo que mejora el control del renderizado y la experiencia del usuario. Utilicé Tailwind CSS para un diseño responsivo y modular, facilitando el mantenimiento.",
+    stack: [{ name: "Next.js" }, { name: "Tailwind" }, { name: "Javascript" }, { name: "Framer-motion" }],
     image: "/assets/work/thumb1.png",
     live: "",
-    github: "",
+    github: "https://github.com/JuanAtencio/my_portfolio",
   },
   {
     num: "03",
